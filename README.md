@@ -10,3 +10,5 @@ Scraping using CSS selectors.
 
 Storing scraped data into JSON, EXCEL, SQLite.
 
+Following links to next page till end page.
+
