@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc220091-5c57-4fbe-a43f-51de33385005" name="Default Changelist" comment="" />
+    <list default="true" id="dc220091-5c57-4fbe-a43f-51de33385005" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scraping_tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scraping_tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotetutorial/myquotes_db" beforeDir="false" afterPath="$PROJECT_DIR$/quotetutorial/myquotes_db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotetutorial/quotetutorial/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/quotetutorial/quotetutorial/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotetutorial/quotetutorial/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/quotetutorial/quotetutorial/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotetutorial/quotetutorial/spiders/quote_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/quotetutorial/quotetutorial/spiders/quote_spider.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +23,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="zroy58f4" />
   </component>
   <component name="ProjectId" id="1ZZIgop5FVdKQO1SVEFawx75Abd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.pipelines">
+  <component name="RunManager" selected="Python.quote_spider">
     <configuration name="defer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scraping_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,9 +153,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quote_spider" />
         <item itemvalue="Python.pipelines" />
         <item itemvalue="Python.defer" />
-        <item itemvalue="Python.quote_spider" />
         <item itemvalue="Python.items" />
         <item itemvalue="Python.settings" />
       </list>
@@ -157,11 +174,18 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586210059952">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586210059952" />
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586597107592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1586597107592" />
     <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1585816876627">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -170,22 +194,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="GrepConsoleSettings/0.0.1366.728@0.0.1366.728" timestamp="1586079881245" />
-    <state width="1323" height="443" key="GridCell.Tab.0.bottom" timestamp="1586079888481">
+    <state width="1323" height="443" key="GridCell.Tab.0.bottom" timestamp="1588072934431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="443" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586079888481" />
-    <state width="1323" height="443" key="GridCell.Tab.0.center" timestamp="1586079888481">
+    <state width="1323" height="443" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588072934431" />
+    <state width="1323" height="443" key="GridCell.Tab.0.center" timestamp="1588072934431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="443" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586079888481" />
-    <state width="1323" height="443" key="GridCell.Tab.0.left" timestamp="1586079888481">
+    <state width="1323" height="443" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588072934431" />
+    <state width="1323" height="443" key="GridCell.Tab.0.left" timestamp="1588072934431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="443" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586079888481" />
-    <state width="1323" height="443" key="GridCell.Tab.0.right" timestamp="1586079888481">
+    <state width="1323" height="443" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588072934431" />
+    <state width="1323" height="443" key="GridCell.Tab.0.right" timestamp="1588072934431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="443" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586079888481" />
+    <state width="1323" height="443" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588072934431" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1586015194584">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -202,14 +226,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586015194584" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1586084367627">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1588058228549">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586084367627" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586233070787">
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588058228549" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588057640428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586233070787" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588057640428" />
     <state x="399" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585058013728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

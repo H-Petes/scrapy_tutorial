@@ -23,10 +23,10 @@ class QuotetutorialPipeline(object):
     def create_table(self):
         self.curr.execute("""DROP TABLE IF EXISTS quotes_tb""")
         self.curr.execute("""create table quotes_tb(
-                             title text,
-                             author text,
-                             tag text
-                             )""")
+                                    title text,
+                                    author text,
+                                    tag text
+                                    )""")
 
 
     def process_item(self, item, spider):
@@ -37,6 +37,7 @@ class QuotetutorialPipeline(object):
 
     def store_db(self, items):
         self.curr.execute("""insert into quotes_tb values(?,?,?)""", (
+
             items['title'][0],
             items['author'][0],
             items['tag'][0]
